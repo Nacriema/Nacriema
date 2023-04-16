@@ -23,7 +23,7 @@
       <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacriema&&hide=jupyter%20notebook,html&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nacriema&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 

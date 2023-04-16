@@ -15,10 +15,10 @@
 
 <div align=center>
     <a title="Nacriema github stat">
-      <img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=nacriema&show_icons=true&theme=dracula"/>
+      <img align="left" height=180 src="https://github-readme-stats.vercel.app/api?username=nacriema&show_icons=true&theme=dracula"/>
     </a>
     <a title="My top languages">
-      <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacriema&&hide=jupyter%20notebook,html&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&border_color=61dafb&hide_border=true" />
+      <img align="right" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacriema&&hide=jupyter%20notebook,html&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>

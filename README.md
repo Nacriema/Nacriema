@@ -15,12 +15,12 @@
 
 <p align=center>
 
-<div align=center style="display:table;table-layout:fixed;width: 100%;height:190px;">
+<div align=center style="display:table;table-layout:fixed;width:100%;height:190px;box-sizing:border-box;border-spacing:10px;">
     <a title="Nacriema github stat" style=" display:table-cell;vertical-align:middle;">
-      <img align="left" height=190 src="https://github-readme-stats.vercel.app/api?username=nacriema&show_icons=true&theme=dracula"/>
+      <img height=190 src="https://github-readme-stats.vercel.app/api?username=nacriema&show_icons=true&theme=dracula"/>
     </a>
     <a title="My top languages" style=" display:table-cell;vertical-align:middle;">
-      <img align="right" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacriema&&hide=jupyter%20notebook,html&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&border_color=61dafb&hide_border=true" />
+      <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacriema&&hide=jupyter%20notebook,html&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>

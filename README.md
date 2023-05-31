@@ -24,15 +24,13 @@
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nacriema&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nacriema&bg_color=423c5d&color=ffffff&line=fcfcfc&point=0bda49&area=true&hide_border=true"/>
 </p>
 
-**Nacriema/Nacriema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Nacriema/Nacriema** is a ✨ _special_ ✨ repository because this is my profile 😄.
 
 - 🔭 I’m currently working on [DSoft JSC](https://d-soft.com.vn/)
-- 📫 How to reach me: ...
+- 📫 My interest field: `Computer Vision`
 - 😄 Pronouns: Nacriema, Quy, Huy
 - ⚡ Fun fact: 1 + 1 = 2
 <!--  Reference: https://github.com/zumrudu-anka/zumrudu-anka/blob/master/README.md-->
